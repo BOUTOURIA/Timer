@@ -1,6 +1,6 @@
 import React from "react";
-import Counter from "./Counter";
-import Timer from "./Timer";
+import Counter from "./Conter";
+
 class Person extends React.Component {
     state = {
       Person: {
